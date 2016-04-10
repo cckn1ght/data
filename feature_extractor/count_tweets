@@ -1,0 +1,8 @@
+db.getCollection('users').aggregate([ {
+    $group: {
+        _id: null,
+        total: {
+            $sum: "$statuses_count"
+        }
+    }
+} ] )

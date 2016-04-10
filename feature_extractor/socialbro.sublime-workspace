@@ -1,0 +1,613 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cou",
+				"counter〔variable〕"
+			],
+			[
+				"db",
+				"db_collection〔variable〕"
+			],
+			[
+				"indi",
+				"indices1"
+			],
+			[
+				"sc",
+				"screen_name〔variable〕"
+			],
+			[
+				"up",
+				"upper_letter_count〔variable〕"
+			],
+			[
+				"extr",
+				"extract"
+			],
+			[
+				"fei",
+				"file_pronouns	statement"
+			],
+			[
+				"ou",
+				"output_file	statement"
+			],
+			[
+				"yes",
+				"yes_list_file"
+			],
+			[
+				"au",
+				"auto_yest_list	statement"
+			],
+			[
+				"ste",
+				"stemmer"
+			],
+			[
+				"csv",
+				"csvfile	param"
+			],
+			[
+				"an",
+				"annotated_finder	class"
+			],
+			[
+				"fil",
+				"file_reader	statement"
+			],
+			[
+				"cs",
+				"csv_rows	statement"
+			],
+			[
+				"bio",
+				"bio_freq_yes	statement"
+			],
+			[
+				"url",
+				"url_generator"
+			],
+			[
+				"star",
+				"start_source"
+			],
+			[
+				"parse",
+				"parse_page"
+			],
+			[
+				"next",
+				"next_url	param"
+			],
+			[
+				"sour",
+				"source_page	statement"
+			],
+			[
+				"fo",
+				"followers	statement"
+			],
+			[
+				"user",
+				"user_content	forstmt"
+			],
+			[
+				"find_",
+				"find_element_by_xpath"
+			],
+			[
+				"pass",
+				"pass_word	statement"
+			],
+			[
+				"login",
+				"login_page	statement"
+			],
+			[
+				"char",
+				"charlist	statement"
+			],
+			[
+				"dri",
+				"driver_cookie	param"
+			],
+			[
+				"driver",
+				"driver_cookies	statement"
+			],
+			[
+				"twi",
+				"twitter_password	statement"
+			],
+			[
+				"sear",
+				"search_box	statement"
+			],
+			[
+				"c",
+				"color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "ins",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"python",
+				"SublimeREPL: Python"
+			],
+			[
+				"shel",
+				"SublimeREPL: Shell"
+			],
+			[
+				"repl",
+				"SublimeREPL: Python"
+			],
+			[
+				"ss",
+				"Set Syntax: Textile"
+			],
+			[
+				"shell",
+				"SublimeREPL: Shell"
+			],
+			[
+				"virtualenv",
+				"Virtualenv: Activate"
+			],
+			[
+				"ja",
+				"Set Syntax: Java"
+			],
+			[
+				"stja",
+				"Set Syntax: Java"
+			],
+			[
+				"stpy",
+				"Set Syntax: Python"
+			],
+			[
+				"linters",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"mark",
+				"SublimeLinter: Choose Mark Style"
+			],
+			[
+				"gutter",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"ssla",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"sslt",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"sscsv",
+				"Set Syntax: Advanced CSV"
+			],
+			[
+				"ssp",
+				"Set Syntax: Python"
+			],
+			[
+				"csv",
+				"CSV: Format"
+			],
+			[
+				"virtual",
+				"Virtualenv: SublimeREPL - Python"
+			],
+			[
+				"replpy",
+				"Virtualenv: SublimeREPL - Python"
+			],
+			[
+				"virtu",
+				"Virtualenv: New"
+			]
+		],
+		"width": 453.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"import os; os.environ['PATH']",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Joe/Virtualenvs/social/socailbro_data",
+		"/Users/Joe/Virtualenvs/social/socailbro_data/dump",
+		"/Users/Joe/Virtualenvs/social/socailbro_data/nurse_users_2"
+	],
+	"file_history":
+	[
+		"/Users/Joe/Virtualenvs/social/socailbro_data/mongo_index.py",
+		"/Users/Joe/Virtualenvs/social/spider/spider.py",
+		"/Users/Joe/Virtualenvs/social/socailbro_data/fields.txt",
+		"/Users/Joe/Virtualenvs/social/socailbro_data/mongo2csv",
+		"/Users/Joe/Virtualenvs/social/socailbro_data/feature_extractor/count_tweets",
+		"/Users/Joe/Virtualenvs/social/socailbro_data/test",
+		"/Users/Joe/Virtualenvs/twitterscraper/scrapy.cfg",
+		"/Users/Joe/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Joe/PycharmProjects/twitterScraper/twitterscraper/twitterscraper/spiders/search.py",
+		"/Users/Joe/PycharmProjects/twitterScraper/twitterscraper/twitterscraper/spiders/test.py",
+		"/Users/Joe/PycharmProjects/twitterScraper/twitterscraper/requirments.txt",
+		"/Users/Joe/Virtualenvs/social/socailbro_data/feature_extractor/feature_extractor.py",
+		"/Users/Joe/PycharmProjects/twitterScraper/twitterscraper/run_one.py",
+		"/Users/Joe/PycharmProjects/twitterScraper/twitterscraper/twitterscraper/settings.py",
+		"/Users/Joe/PycharmProjects/twitterScraper/twitterscraper/run.py",
+		"/Users/Joe/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Joe/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/Joe/Virtualenvs/twitterscraper/pip-selfcheck.json",
+		"/Users/Joe/DockerProjects/nginx/index.html",
+		"/Users/Joe/DockerProjects/nginx/Dockerfile",
+		"/Users/Joe/DockerProjects/new_nginx/index.html",
+		"/Users/Joe/Virtualenvs/social/socailbro_data/test.py",
+		"/Users/Joe/Virtualenvs/social/socailbro_data/feature_extractor.py",
+		"/Users/Joe/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/Joe/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/Joe/Virtualenvs/social/socailbro_data/insert_mongo.py",
+		"/Users/Joe/Library/Application Support/Sublime Text 3/Packages/User/Virtualenv.sublime-settings",
+		"/Users/Joe/Library/Application Support/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/Users/Joe/Library/Application Support/Sublime Text 3/Packages/Virtualenv/Virtualenv.sublime-settings",
+		"/Users/Joe/.bash_profile",
+		"/Users/Joe/Virtualenvs/social/socailbro_data/pronouns.txt",
+		"/Users/Joe/Virtualenvs/social/socailbro_data/nurse_users_new.csv",
+		"/Users/Joe/Virtualenvs/social/socailbro_data/findAnnotated.py",
+		"/Users/Joe/Virtualenvs/social/socailbro_data/wordanalysis1.0.py",
+		"/Users/Joe/Virtualenvs/social/socailbro_data/feature_extractor/findAnnotated.py",
+		"/Users/Joe/Documents/github/NurseBioCrawler/feature_extractor.py",
+		"/Users/Joe/Downloads/json (1).json",
+		"/Users/Joe/Downloads/json.json",
+		"/Users/Joe/Downloads/json (2).json",
+		"/Users/Joe/Library/Application Support/Sublime Text 3/Packages/User/Python.sublime-settings",
+		"/Users/Joe/Dropbox/New folder/Main.cpp",
+		"/Users/Joe/Dropbox/New folder/MemoryManager.cpp",
+		"/Users/Joe/Virtualenvs/social/socailbro_data/nurse_users.csv",
+		"/Users/Joe/Virtualenvs/social/socailbro_data/mongodb2csv.sh",
+		"/Users/Joe/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/Users/Joe/Virtualenvs/fw_scraper/fw_scraper/fw_scraper/spiders/__init__.py",
+		"/Users/Joe/Virtualenvs/twitterscraper/twitterscraper/settings.py",
+		"/Users/Joe/Virtualenvs/fw_scraper/fw_scraper/fw_scraper/settings.py",
+		"/Users/Joe/Virtualenvs/fw_scraper/fw_scraper/fw_scraper/spiders/fw_spider.py",
+		"/Users/Joe/lintcode/127. Word Ladder",
+		"/Users/Joe/PycharmProjects/twitterScraper/twitterscraper/twitterscraper/commands/init_single_mongodb.py",
+		"/Users/Joe/PycharmProjects/twitterScraper/twitterscraper/requirements.txt",
+		"/Users/Joe/Library/Application Support/Sublime Text 3/Packages/User/102. Binary Tree Level Order Traversal.java",
+		"/Users/Joe/Library/Application Support/Sublime Text 3/Packages/User/Java.sublime-settings",
+		"/Users/Joe/DockerProjects/game1/index.html",
+		"/Users/Joe/DockerProjects/game1/Dockerfile",
+		"/Users/Joe/Virtualenvs/fw_scraper/lib/python2.7/site-packages/scrapy/core/downloader/contextfactory.py",
+		"/Users/Joe/Virtualenvs/fw_scraper/lib/python2.7/site-packages/scrapy/settings/default_settings.py",
+		"/Users/Joe/Virtualenvs/fw_scraper/fw_scraper/log.html",
+		"/Users/Joe/Virtualenvs/fw_scraper/fw_scraper/user.html",
+		"/Users/Joe/Virtualenvs/scrapytutorial-py27/tutorial/tutorial/spiders/searchtwitter.py",
+		"/Users/Joe/Desktop/requirements.txt",
+		"/Users/Joe/Virtualenvs/fw_scraper/fw_scraper/items.py",
+		"/Users/Joe/DockerProjects/mailserver/docker-mailserver/Dockerfile",
+		"/Users/Joe/DockerProjects/mailserver/docker-mailserver/postfix/accounts.cf",
+		"/Users/Joe/Desktop/test.html",
+		"/Users/Joe/Library/Application Support/Sublime Text 3/Packages/User/AdvancedNewFile.sublime-settings",
+		"/Users/Joe/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Joe/Virtualenvs/scrapytutorial-py27/twitterScrapy/scrapy.cfg",
+		"/Users/Joe/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/Joe/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/Joe/Library/Application Support/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+		"/Users/Joe/Desktop/de.py",
+		"/Users/Joe/Documents/nginx/Dockerfile",
+		"/Users/Joe/Documents/nginx/index.html",
+		"/Users/Joe/DockerProjects/mailserver/docker-compose.yaml",
+		"/Users/Joe/Documents/Kitematic/hello-world-nginx/website_files/index.html",
+		"/private/etc/hosts",
+		"/Users/Joe/PycharmProjects/crawler/NurseBioCrawler/shuffledCSV-v2.csv",
+		"/Users/Joe/PycharmProjects/crawler/NurseBioCrawler/shuffledCSV.csv",
+		"/Users/Joe/PycharmProjects/550NLTKLab/stanford/data/sentences.PENN.parsed.txt",
+		"/Users/Joe/PycharmProjects/550NLTKLab/story1.txt",
+		"/Users/Joe/PycharmProjects/550NLTKLab/550parse.py",
+		"/Users/Joe/Downloads/pyner-master/setup.py",
+		"/Users/Joe/PycharmProjects/crawler/NurseBioCrawler/weka-predict/features.csv",
+		"/Users/Joe/PycharmProjects/crawler/NurseBioCrawler/feature_extractor.py",
+		"/Users/Joe/PycharmProjects/crawler/NurseBioCrawler/weka-predict/yes_class.json",
+		"/Users/Joe/Library/Application Support/Sublime Text 3/Packages/User/Bash.sublime-build",
+		"/Users/Joe/PycharmProjects/crawler/NurseBioCrawler/weka-predict/yes_class.csv",
+		"/Users/Joe/PycharmProjects/crawler/NurseBioCrawler/weka-predict/annotated_features.arff",
+		"/Users/Joe/PycharmProjects/crawler/NurseBioCrawler/weka-predict/features.arff",
+		"/Users/Joe/Library/Application Support/Sublime Text 3/Packages/User/AdvancedCSV.sublime-settings",
+		"/Users/Joe/Virtualenvs/TwitterScraper/TwitterScraper/run.py",
+		"/Users/Joe/PycharmProjects/550NLTKLab/feature_extractor.py",
+		"/Users/Joe/Virtualenvs/TwitterScraper/requirements.txt",
+		"/Users/Joe/Virtualenvs/TwitterScraper/TwitterScraper/TwitterScraper/spiders/__init__.py",
+		"/Users/Joe/Virtualenvs/TwitterScraper/TwitterScraper/TwitterScraper/items.py",
+		"/Users/Joe/Virtualenvs/TwitterScraper/TwitterScraper/TwitterScraper/settings copy.py",
+		"/Users/Joe/Virtualenvs/TwitterScraper/TwitterScraper/run_one.py",
+		"/Users/Joe/Virtualenvs/TwitterScraper/TwitterScraper/TwitterScraper/pipelines.pyc",
+		"/Users/Joe/Virtualenvs/test3/requirements.txt",
+		"/Users/Joe/Virtualenvs/test3/test.py",
+		"/Users/Joe/Desktop/test.py",
+		"/Users/Joe/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/Users/Joe/.profile",
+		"/Users/Joe/PycharmProjects/550NLTKLab/story1"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"yield",
+			"yeild",
+			"  Tracer",
+			"Tracer",
+			"color",
+			"font",
+			"color",
+			"uppper_letter_count",
+			"stemmer",
+			"feature_extrator",
+			"fun_feature_extractor",
+			"name_auto_Yes_freq_terms",
+			"name_auto_No_freq_terms",
+			"claatype",
+			"following_count",
+			"f_output",
+			"annotated_reader",
+			"annotated_file",
+			"feature_writer",
+			"list_pronouns",
+			"f_pronouns",
+			"feature",
+			"input_file",
+			"csvfile",
+			"csvRows",
+			"pronouns",
+			"fun_create_files_of_word_lists",
+			"self",
+			"source",
+			"ID",
+			"^.*?(?==)",
+			"before",
+			"409K",
+			"uLBox-bio",
+			"before",
+			"BEFORE",
+			"CEBU",
+			"data['items_html']",
+			"extract_tweets",
+			"Tracer",
+			"max_position",
+			"max_positionmax_position",
+			"random_str",
+			"urlunparse",
+			"peak",
+			"();",
+			"partseInt",
+			"postions_s",
+			"words",
+			"str",
+			"__utmz=77440784",
+			"c0ffeeknight",
+			"COOKIES_DEBUG",
+			"warning",
+			">\n",
+			"!",
+			"80",
+			"h1",
+			"miridc_sweet",
+			"PP",
+			"NN",
+			"NP",
+			"NP (DT",
+			"ADVP",
+			",,",
+			",/n",
+			",,",
+			"EOF",
+			"<ul",
+			"ul",
+			" ",
+			"math",
+			"fold",
+			"folder",
+			"icons",
+			"theme"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 269.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Virtualenv/Python + Virtualenv.sublime-build",
+	"project": "socialbro.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"*REPL* [python]"
+			],
+			[
+				"pa",
+				"Package Control Messages"
+			],
+			[
+				"pack",
+				"Package Control Messages"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

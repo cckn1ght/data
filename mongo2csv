@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+mongoexport --db nurse_users --collection users --type=csv --fieldFile fields.txt --out nurse_users.csv
